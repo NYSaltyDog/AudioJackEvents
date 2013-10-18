@@ -11,6 +11,6 @@ can execute different methods.
 
 The following framworks need to be included in your project in order to make this class work...
 
-#import <AVFoundation/AVFoundation.h>
-#import <AudioToolbox/AudioToolbox.h>
-#import <MediaPlayer/MediaPlayer.h>
+AVFoundation/AVFoundation.h
+AudioToolbox/AudioToolbox.h
+MediaPlayer/MediaPlayer.h
