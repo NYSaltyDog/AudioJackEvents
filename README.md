@@ -9,9 +9,7 @@ into (or removed from) the audio jack.  the demo shows how the system is able to
 differance between plugging into or removing the plug from the jack so that the different events 
 can execute different methods. 
 
-The following framworks need to be included in your project in order to make this class work...
+The following three framworks need to be included in your project in order to make this class work...
 
-AVFoundation/AVFoundation.h
-AudioToolbox/AudioToolbox.h
-MediaPlayer/MediaPlayer.h
+AudioToolbox framework...      AVFoundation framework...     MediaPlayer framework
 
