@@ -49,6 +49,7 @@ void audioRouteChangeListenerCallback (void                      *inUserData,
 	}
     
     //---------->>>>
+    
     // "New device available" indicates that a headset was plugged into the jack,
 	//	or that the device was plugged into a dock connector that supports audio output.
     if (routeChangeReason == kAudioSessionRouteChangeReason_NewDeviceAvailable)
